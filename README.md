@@ -10,3 +10,19 @@ Devtop lets users glide through what they need to do, without cluttery distracti
 
 
 To run Devtop, Please try Vubuntu, in the link posted above.
+
+
+
+# How to access Devtop in Vubuntu
+
+First, make sure your user account has a password. If not, set one.
+
+Second, Logout.
+
+Third, Select your account from the list of users.
+
+Fourth, Choose, "Devtop" In the Bottom-right corner of your screen. (Or wherever else if your are not using Gnome.).
+
+Fifth, Enter your Login Details and Sign in.
+
+For the best Experience of Devtop, please download the Latest version of Vubuntu. (1.3.2).
