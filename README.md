@@ -1,17 +1,19 @@
 # Devtop
 Devtop Allows Developers to have a straight-forward GUI and lets Developers Get things Done.
 
-The DE for Vubuntu.
+The DE for AgileOS.
 
 
-For Vubuntu, please see https://github.com/Vubunt-Developer/Vubuntu-Alpha.
+For Agile, please see https://github.com/Vubunt-Developer/Vubuntu-Alpha.
 
 
 Devtop lets users glide through what they need to do, without clutter and easy access to apps.
 
+In Agile Alpha 1.3.3 there are new Visuals to make it easier to use Devtop.
+
 # How to access apps in Devtop
 
-To run Devtop, Please try Vubuntu, in the link posted above.
+To run Devtop, Please try Agile, in the link posted above.
 
 While logged in Devtop, press ``Ctrl+Alt+Space`` to start gnome-pie.
 
@@ -35,7 +37,7 @@ Devtop also uses light-dm. To change the settings of Devtop, go to light-dm sett
 
 # By the Way
 
-Devtop is not like other Linux Desktops. You cannot just install it on any Debian-based distribution; You must Install on Vubuntu.
+Devtop is not like other Linux Desktops. You cannot just install it on any Debian-based distribution; You must Install on AgileOS.
 
 This is because Devtop does not come with any Software, and does not have its own repository you can download from.
 
@@ -45,7 +47,7 @@ This is not recommended, but if you really want to, you can.
 
 
 
-# How to access Devtop in Vubuntu
+# How to access Devtop in AgileOS
 
 First, make sure your user account has a password. If not, set one.
 
