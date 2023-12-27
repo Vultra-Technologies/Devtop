@@ -3,7 +3,6 @@ Devtop Allows Developers to have a straight-forward GUI and lets Developers Get 
 
 The DE for AgileOS.
 
-
 For Agile, please see https://github.com/Vubunt-Developer/Vubuntu-Alpha.
 
 
